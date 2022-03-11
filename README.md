@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ransom12
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Deepak jha
 - 🌱 I’m currently a FullStack developer at Tracelinq
-- 💞️ I’m looking to collaborate on ...
-### Email: deejha927@gmail.com
+### `Contact`
+    deejha927@gamil.com
 <!---
 ransom12/ransom12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
