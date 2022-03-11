@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-![Screenshot](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png)
-
 <!---
 ransom12/ransom12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
