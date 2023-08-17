@@ -4,8 +4,6 @@
 <h4>I am a full-stack developer with over 2 years of experience in Django, React, MySQL, Postgres, and Docker. I have worked on various projects ranging from small to large-scale applications and have experience in building robust and scalable web applications.
 Skills 💪</h4>
 
-  <h1>Technology</h1>
-
   <h2>Languages</h2>
   <ul>
     <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"> HTML5</li>
